@@ -1,0 +1,2 @@
+# Autoencoder-Anomaly-Detection-on-Imbalanced-Heart-Disease-Dataset
+Heart Disease Detection with Autoencoder Anomaly Detection uses an autoencoder trained on an imbalanced dataset to detect heart disease. The model learns patterns from individuals without heart disease and identifies anomalies in those with heart disease based on reconstruction errors, showcasing a deep learning approach to anomaly detection.
